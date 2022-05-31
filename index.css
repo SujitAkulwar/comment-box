@@ -1,0 +1,11 @@
+body {
+    background: rgb(0, 117, 234) linear-gradient(45deg, rgb(16, 255, 255), rgb(74, 164, 254), rgb(255, 121, 193)) fixed;
+
+}
+#comment-box, #post {
+    border: none;
+    border-radius: 5px;
+}
+#post:hover{
+    background-color: deeppink;
+}
