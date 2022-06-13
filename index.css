@@ -1,6 +1,6 @@
 body {
     background: rgb(255, 232, 23) linear-gradient(45deg, rgb(133, 255, 255), rgb(0, 28, 56), rgb(215, 0, 115)) fixed;
-
+    font-family: 'Poppins', sans-serif;
 }
 #comment-box, #post {
     border: none;
