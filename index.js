@@ -7,3 +7,7 @@ post.addEventListener("click", function(){
     li.appendChild(text);
     document.getElementById("unordered").appendChild(li);
 });
+// $('button').click(function() {
+//     var comment = $('#comment').val(); 
+//     $('<li>').appendTo('#unordered').text(comment);
+// })
